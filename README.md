@@ -1,2 +1,2 @@
-# Azure
-Everything Azure related
+# AI Stuff
+Everything AI related
